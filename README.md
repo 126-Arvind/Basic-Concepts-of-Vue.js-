@@ -98,6 +98,6 @@ The Composition API provides a flexible way to compose and reuse logic inside co
 
 https://vuejs.org/guide/introduction.html
 
-https://vuejs.org/guide/introduction.html
+https://www.geeksforgeeks.org/vue-js/
 
 https://w3schools.com/vue/
