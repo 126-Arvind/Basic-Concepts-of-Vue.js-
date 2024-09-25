@@ -90,3 +90,12 @@ The Composition API provides a flexible way to compose and reuse logic inside co
 **Reactivity System:** Automatically sync the DOM with the underlying state.
 
 **Vue CLI:** A powerful tool for scaffolding, developing, and building Vue applications.
+
+
+**📄 Further Reading**
+
+**Official Documentation:**
+
+https://vuejs.org/guide/introduction.html
+https://vuejs.org/guide/introduction.html
+https://w3schools.com/vue/
